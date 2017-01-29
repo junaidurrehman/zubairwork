@@ -1,0 +1,84 @@
+
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+        text-decoration: none;
+    }
+    .navbar-default{
+        background-color:#CBCFB5;
+        border-top: 5px solid #362c20;
+
+    }
+    .navbar-nav > li > a {
+        margin:0px 10px 0px 0px;
+        color:white;
+        background-color:#B5BA96;
+        #second{
+            font-color:#cbcfb5;
+        }
+
+
+
+    }
+    .navbar-default .navbar-nav > li > a:hover {
+        background-color: #919863;
+    }
+    .nav-pills > li > a {
+        border-radius: 0px;
+
+    }
+    .navbar-nav > li > a{
+        padding: 10px 20px ;
+    }
+   h1 > a{
+        color:#362c20;
+    }
+    h1>a:hover{
+        color:#362c20;
+    }
+    #colorh1{
+        color:#cbcfb5;
+
+    }
+    .colorwh{
+        color:#ffffff;
+    }
+    .netp{
+        color:#b6b6b6;
+
+    }
+    #image{
+        border: 1px solid #cbcfb5;
+        padding : 10px 10px 10px 10px;
+        margin : 10px 12px 15px 70px;
+    }
+    #second{
+        background-color: #362C20; 
+    }
+    .navbar{
+        margin-bottom: 0px;
+    }
+
+    .custom-form{
+        text-align: right;
+        padding:10px 0 10px 0;
+        margin-right: -3px;
+
+    }
+    #head{
+        margin-bottom: 2px;
+    }
+    .custom-form input{
+        width:250px;
+        background-color: transparent;
+        border: 1px solid white;
+    }
+    .btn-custom{
+        background-color: transparent;
+        border:1px solid white;
+    }
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+        background-color: #919863;
+    }
+

@@ -1,0 +1,43 @@
+#first{
+    padding: 5px 0px 5px 0px;
+}
+
+.navbar{
+    padding: 10px 0px;
+    
+}
+#image{
+}
+#first .btn-lg{
+    margin-top: 3px;
+}
+#head5{
+    text-align: center;
+}
+.form-control{
+    border-radius: 0px;
+    padding: 3px 6px;
+}
+.btn{
+    border-radius: 0px;
+}
+#foot{
+    background-color: #202020;
+    color: white;
+   }
+       
+   .img1{
+       height: 60px;
+       width: 60px;
+   }
+   @media (min-width: 992px){
+       .navbar-inverse .navbar-nav > li > a{
+           padding : 10px ;
+       }
+   }
+   @media (min-width: 1200px){
+       .navbar-inverse .navbar-nav > li > a{
+           padding : 10px 15px;
+       }
+   }
+   
