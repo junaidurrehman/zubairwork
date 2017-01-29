@@ -12,7 +12,7 @@ body{
     background: url("body-bg.jpg");
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
-    background: #333333;
+   
     font-weight: bold;
     
     
@@ -26,7 +26,7 @@ body{
 .navbar-default .navbar-nav > li > a{
     color: #ffffff;
     font-size: 16px;
-    border-right: 3px solid #252525;
+    border-right: 1px solid #292929;
 }
 .navbar-default h1{
     color: #ffffff;
@@ -44,7 +44,7 @@ body{
 .navbar{
     border: none;
     margin-top: 65px;
-    
+     background: #333333;
 }
 #second img{
     border-top: 20px solid #fff;
