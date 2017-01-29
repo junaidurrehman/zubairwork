@@ -15,9 +15,10 @@ and open the template in the editor.
         <script src="bootstrap/js/bootstrap.js"></script>
     </head>
     <body>
+        
+    <div class="container">
         <div id="navigation-bar">
             <nav class="navbar navbar-default">
-                <div class="container">
                   <!-- Brand and toggle get grouped for better mobile display -->
                   <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -41,9 +42,8 @@ and open the template in the editor.
                       <li><a href="#">Contact</a></li>
                       
                     </ul>
-                  </div><!-- /.navbar-collapse -->
-                
-              </nav>
+                    </div><!-- /.navbar-collapse -->
+            </nav>
         </div>
         
         <div id="second">
@@ -91,7 +91,7 @@ and open the template in the editor.
                 </a>
               </div>
         </div>
-       
+        
     </div>
         <?php
         // put your code here
