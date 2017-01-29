@@ -42,10 +42,11 @@ and open the template in the editor.
                       
                     </ul>
                     </div><!-- /.navbar-collapse -->
+                 </div>
             </nav>
         </div>
                         
-    </div>
+   
         
         <div id="second">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
